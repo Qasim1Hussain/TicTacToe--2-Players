@@ -1,0 +1,5 @@
+1. Source files Divide into client and server folder
+2. Create a bash file to create new folder and compile both the source code folders and create a Client.jar and Server.jar files.
+3. Create a Dockerfile, which contains linux vm and run Server.jar to linux app folder.
+4. Create an image using that Dockerfile and then container with custom port for running the server for checking an error on server.jar
+5. Create a docker repo on web and then create push the image to repo.
